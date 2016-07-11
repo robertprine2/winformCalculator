@@ -1,0 +1,9 @@
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.exe.config
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.exe
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.pdb
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csprojResolveAssemblyReference.cache
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Form1.resources
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Properties.Resources.resources
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csproj.GenerateResource.Cache
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.exe
+C:\Users\rober_000\Desktop\C#\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.pdb
